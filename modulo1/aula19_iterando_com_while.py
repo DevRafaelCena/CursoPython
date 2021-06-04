@@ -6,4 +6,3 @@ while contador<tamanho_frase:
     print(frase[contador])
     contador +=1
 
-    

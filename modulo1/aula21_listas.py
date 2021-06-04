@@ -28,7 +28,6 @@ print(min(l1))
 l1.clear()
 print(l1)
 
-
 l3 = list(range(0, 10, 2))
 print(l3)
 

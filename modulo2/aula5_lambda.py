@@ -15,6 +15,5 @@ print(lista)
 lista.sort()
 print(lista)
 
-
 lista.sort(key=lambda item: item[1], reverse=True)
 print(lista)
